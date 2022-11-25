@@ -6,7 +6,7 @@ from mpl_finance import candlestick_ohlc #ohlc => Open high Low close
 
 #Define Timeframe
 
-start = dt.datetime(2022,1,1)
+start = dt.datetime(2020,1,1)
 end = dt.datetime.now()
 
 #Load Data
