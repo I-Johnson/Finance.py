@@ -7,5 +7,6 @@ but in the mean time hedge funds lost billions as GME was their shorted
 stock. 
 
 Open the image in a new tab to have a better experience of how GME is doing on 
-this fine day since the start of 2020 and 2022. 
+this fine day since the start of 2020 and 2022. Also from 2020-08-01 to 2021-08-01
+
 
